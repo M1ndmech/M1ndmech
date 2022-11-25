@@ -1,4 +1,7 @@
-### Hi there 👋
+### Здесь должна кипеть работа
+
+## А пока - процесс обучения
+
 
 <!--
 **M1ndmech/M1ndmech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
